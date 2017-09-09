@@ -13,7 +13,9 @@ class Record:
 def search(record):
     maximum = -float("inf")
     while record != None:
-        maximum = max(maximum, record.value)
+        temp_value = record.value
+        if temp_value > maximum:
+            maximum = temp_value
         record = record.next
     return maximum
     # SKRIV DIN KODE HER
@@ -37,4 +39,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-

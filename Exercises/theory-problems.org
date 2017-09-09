@@ -1,0 +1,49 @@
+* TDT 4120 
+
+** Problemer og algorimer <2017-09-04 Mon>
+
+*** *En instans av et problem er*
+**** input til et problem
+    
+*** *Hvile alternativ beskriver best algoritmer og datastrukturer?* 
+**** En algoritme beskriver utvetydig hvordan et problem kan løses. Algoritmen lager data i (og henter fra) datastrukturer.
+      
+
+*** 
+
+*** 
+
+*** 
+
+*** 
+
+***  
+
+*** 
+
+*** 
+
+*** 
+
+
+** Datastrukturer <2017-09-11 Mon>
+
+** Split og Hersk <2017-09-18 Mon>
+
+** Rangering i lineær tid <2017-09-25 Mon>
+
+** Rotfaste trestrukturer <2017-10-02 Mon>
+ 
+** Dynamisk programmering  <2017-10-09 Mon>
+
+** Grådige algoritmer <2017-10-16 Mon>
+
+** Traversering av grafer <2017-10-23 Mon>
+
+** Minimale spenntrær <2017-10-30 Mon>
+
+** Korteste vei, en til alle <2017-11-06 Mon>
+
+** Korteste ei, alle til alle <2017-11-13 Mon> 
+
+** Maks flyt og NPC <2017-11-20 Mon>

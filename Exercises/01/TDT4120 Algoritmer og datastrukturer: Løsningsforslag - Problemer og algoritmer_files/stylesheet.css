@@ -1,0 +1,150 @@
+
+body {
+   margin: 0;
+   background: white;
+   font-family: Times New Roman, Times Roman;
+   font-size: 12pt;
+}
+
+th, td, p, a, li {
+   font-size: 12pt;
+}
+
+h1, h2, h3 {
+   font-family: Tahoma, Arial, Helvetica;
+   color: #6666ff;
+}
+
+th,td {
+    text-align: left;
+    vertical-align:top;
+    padding-right: 10px;
+    padding-left: 0px;
+}
+
+td.msgwrap {
+    padding-left: 1px;
+    padding-right: 1px;
+}
+
+td.msg {
+    padding: 4px;
+}
+
+th.grey {
+    background-color: #999999;
+    text-align: center;
+}
+
+td.container, th.container, th.menu, td.menu {
+    padding-right: 3px;
+    padding-left: 0px;
+}
+
+p {
+   text-align: justify;
+}
+
+a, a:visited, a:active, a:hover {
+   text-decoration: none;
+   color: #0000ff;
+   background-color: inherit;
+}
+a:hover {
+   text-decoration: underline;
+}
+a.unavailable, a:visited.unavailable, a:active.unavailable, 
+        a:hover.unavailable {
+    color: #000000;
+    background-color: inherit;
+}
+    
+
+// to create marker <strong class="marker">text..</strong>
+strong.MARKER {
+   background-color:#FFFF00; 
+   font-weight: bold;
+   /*font-family: Verdana;
+   font-size: 12px;*/
+}
+
+tr.beauty {
+    background-color:#eeeeff;
+}
+td.top {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.top-left {
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.top-right {
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.title-left {
+    background-color:#eeeeff;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.title-middle {
+    background-color:#eeeeff;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.title-right {
+    background-color:#eeeeff;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.middle-left {
+    background-color:#eeeeff;
+    border-left: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.middle-right {
+    background-color:#eeeeff;
+    border-right: 1px solid black; 
+    padding: 3px 3px 3px 3px;
+}
+td.middle-middle {
+    background-color:#eeeeff;
+    padding: 3px 3px 3px 3px;
+}
+td.bottom-left {
+    background-color:#eeeeff;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.bottom-middle {
+    background-color:#eeeeff;
+    border-bottom: 1px solid black;
+    padding: 3px 3px 3px 3px;
+}
+td.bottom-right {
+    background-color:#eeeeff;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black; 
+    padding: 3px 3px 3px 3px;
+}
+
+.debug {
+    background-color: inherit;
+    color: orange;
+}
+
+.menu, .menu a {
+    font-family: Tahoma, Arial, Helvetica;
+    font-size: 10pt;
+}
